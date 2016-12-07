@@ -1,0 +1,130 @@
+#landingpage {
+  background: url("fitnessnav.jpg");
+  background-size: cover;
+  min-height: 100vh;
+  background-position-x: 25%; }
+
+#fitnesshead {
+  color: white;
+  text-transform: uppercase;
+  font-size: 1em;
+  margin-left: 2em; }
+
+#fitnessunderline {
+  border-bottom: 2px solid green; }
+
+#navigation {
+  text-align: right;
+  padding-right: 3em; }
+
+nav a {
+  padding-left: 2em;
+  color: white; }
+
+#fitnesscan {
+  color: white;
+  margin-top: 20em;
+  margin-left: 2em;
+  margin-bottom: 0px; }
+
+#paracan {
+  color: white;
+  margin-left: 10em; }
+
+#categories {
+  font-size: 3em;
+  text-align: center;
+  color: white; }
+
+#categoriesbackground {
+  text-align: center;
+  padding: 6em;
+  background: #ff9900;
+  color: black; }
+
+a {
+  color: white; }
+
+#itisall {
+  background-color: white;
+  border: 2px solid white;
+  color: black;
+  text-align: center; }
+
+#itisall2 {
+  background-color: white;
+  border: 2px solid white;
+  color: black;
+  text-align: center;
+  height: 20em;
+  background-color: #ff9900;
+  color: black; }
+
+#itisall3 {
+  background-color: white;
+  border: 2px solid white;
+  color: black;
+  text-align: center;
+  height: 20em;
+  background-color: black;
+  color: white; }
+
+a#itisalllink {
+  color: black; }
+
+#itisallimage {
+  height: 239px;
+  width: 659px;
+  padding: 0; }
+
+#itisallimage10 {
+  height: 239px;
+  width: 659px;
+  padding: 0;
+  position: relative; }
+
+#imageicon1 {
+  position: absolute;
+  color: white;
+  bottom: 0;
+  margin-left: 2em;
+  text-transform: uppercase; }
+
+#itisallmain {
+  background: #ff9900; }
+
+.image-container {
+  padding: 0; }
+
+#sectionfive {
+  background: #00e600; }
+
+#lastsection {
+  background: url("itisall7.jpg");
+  background-size: cover;
+  min-height: 100vh;
+  background-position-x: 50%; }
+
+#h3lastsection {
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 10em; }
+
+#lastsectionicons {
+  font-size: 3em; }
+  #lastsectionicons #iconsformatting {
+    border-radius: 50%; }
+  #lastsectionicons .fa-facebook-official {
+    color: blue; }
+  #lastsectionicons .fa-youtube {
+    color: red; }
+  #lastsectionicons .fa-twitter-square {
+    color: blue; }
+  #lastsectionicons .fa-linkedin-square {
+    color: blue; }
+
+#sociallinks {
+  background-color: black;
+  color: white; }
+
+/*# sourceMappingURL=fitnessmain.css.map */

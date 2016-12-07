@@ -1,0 +1,45 @@
+
+@import "fitnesslanding",
+        "secondsection";
+
+
+
+#lastsection{
+  background: url('itisall7.jpg');
+  background-size: cover;
+  min-height: 100vh;
+  background-position-x: 50%;
+        }
+
+#h3lastsection{
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 10em;
+}
+
+#lastsectionicons{
+  font-size: 3em;
+
+#iconsformatting{
+  border-radius: 50%;
+}
+  .fa-facebook-official{
+    color:blue;
+  }
+
+  .fa-youtube{
+    color: red;
+  }
+  .fa-twitter-square{
+  color: blue;
+}
+
+  .fa-linkedin-square{
+    color: blue;
+  }
+}
+
+#sociallinks{
+  background-color: black;
+  color: white;
+}

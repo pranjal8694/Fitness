@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,YAAY;EACV,UAAU,EAAE,qBAAqB",
+"sources": ["fitnessmain.scss"],
+"names": [],
+"file": "fintessmain.css"
+}
